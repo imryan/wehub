@@ -1,11 +1,11 @@
 # WeHub
 WeWork interview application utilizing the GitHub API
 
-Profile                      Issues
+Profile                    |  Issues
 :-------------------------:|:-------------------------:
-![](https://i.imgur.com/fpAvjxb.png)  |  ![](https://i.imgur.com/1ETH6zk.png)
-Issue Detail                          |  Create Issue
-![](https://i.imgur.com/MOXZhR0.png)  |  ![](https://i.imgur.com/Be17Dvw.png)
+![](https://i.imgur.com/fpAvjxb.png) | ![](https://i.imgur.com/1ETH6zk.png)
+Issue detail               | Create Issue
+![](https://i.imgur.com/MOXZhR0.png) | ![](https://i.imgur.com/Be17Dvw.png)
 
 ## Libraries used
 * SnapKit
